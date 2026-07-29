@@ -1,25 +1,16 @@
-import { useEffect, useState } from 'react';
+// src/router.js
 
-export function useSimpleRouter() {
-  const [location, setLocation] = useState(() => ({
-    pathname: window.location.pathname,
-    search: window.location.search,
-  }));
+export function getCurrentPath() {
+  const hash = window.location.hash.replace('#', '');
 
-  useEffect(() => {
-    const onPopState = () => setLocation({
-      pathname: window.location.pathname,
-      search: window.location.search,
-    });
-    window.addEventListener('popstate', onPopState);
-    return () => window.removeEventListener('popstate', onPopState);
-  }, []);
+  // 해시가 없으면 홈 화면
+  return hash || '/';
+}
 
-  const navigate = (to) => {
-    window.history.pushState({}, '', to);
-    setLocation({ pathname: window.location.pathname, search: window.location.search });
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
+export function navigate(path) {
+  const normalizedPath = path.startsWith('/')
+    ? path
+    : `/${path}`;
 
-  return { ...location, navigate };
+  window.location.hash = normalizedPath;
 }
