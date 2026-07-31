@@ -1009,33 +1009,7 @@ select:focus-visible {
   gap: 30px;
 }
 
-.cart-panel {
-  padding: 22px;
-  border: 1px solid var(--line);
-  background: #fff9f4;
-}
 
-.cart-header {
-  padding-bottom: 15px;
-  border-bottom: 1px solid var(--line);
-  font-weight: 800;
-}
-
-.cart-header input {
-  accent-color: var(--orange);
-}
-
-.cart-item {
-  display: grid;
-  grid-template-columns: 76px 1fr auto 100px 28px;
-  align-items: center;
-  gap: 15px;
-  margin-top: 12px;
-  padding: 12px;
-  border: 1px solid var(--line);
-  border-radius: 11px;
-  background: white;
-}
 
 .cart-thumb {
   width: 64px;
