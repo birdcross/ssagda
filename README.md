@@ -3,6 +3,126 @@
 이승훈, 이미연, 이현영, 김수민, 이충훈
 
 ---
+<table class="project-info"> <tbody> <tr> <th>프로젝트명</th> <td>SSAGDA Web Shopping Mall Design</td> </tr>
+
+  <tr>
+    <th>서비스 의미</th>
+    <td>“싹 다”를 영문 브랜드명으로 표현한 종합 판매 사이트</td>
+  </tr>
+
+  <tr>
+    <th>팀명 / 팀원</th>
+    <td>[팀명 입력] / [팀원 이름 입력]</td>
+  </tr>
+
+  <tr>
+    <th>작업 기간</th>
+    <td>[YYYY.MM.DD] ~ [YYYY.MM.DD]</td>
+  </tr>
+
+  <tr>
+    <th>Figma 링크</th>
+    <td>[프로토타입 링크 입력]</td>
+  </tr>
+</tbody>
+
+</table>
+
+<h2>1. 프로젝트 개요</h2>
+
+<table class="project-overview"> <tbody> <tr> <th>서비스 한 줄 소개</th> <td>패션, 잡화, 리빙, 뷰티, 디지털, 식품 등 생활에 필요한 상품을 한곳에서 탐색하고 구매하는 종합 쇼핑몰</td> </tr>
+
+  <tr>
+    <th>핵심 사용자</th>
+    <td>여러 카테고리 상품을 한 번에 비교하고 빠르게 구매하려는 온라인 쇼핑 사용자</td>
+  </tr>
+
+  <tr>
+    <th>핵심 가치</th>
+    <td>다양한 상품을 “싹 다” 제공하는 편리함, 명확한 정보 구조, 빠른 구매 흐름</td>
+  </tr>
+
+  <tr>
+    <th>디자인 방향</th>
+    <td>깔끔한 화이트 배경, 오렌지 포인트, 넓은 여백, 둥근 카드, 일관된 상단 헤더</td>
+  </tr>
+
+  <tr>
+    <th>사용 도구</th>
+    <td>DALL·E(초기 시각화), PowerPoint/Figma(텍스트·레이아웃 후가공), Figma(프로토타입)</td>
+  </tr>
+</tbody>
+
+</table>
+
+<h2>2. 최종 화면 구성</h2>
+
+<table class="screen-table"> <thead> <tr> <th>No.</th> <th>화면</th> <th>주요 구성</th> </tr> </thead>
+
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>메인 페이지</td>
+    <td>브랜드 배너, 카테고리, 추천 상품, 특가 영역</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>상품 목록</td>
+    <td>필터, 정렬, 상품 카드 그리드</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>상품 상세</td>
+    <td>상품 이미지, 가격, 옵션, 구매 버튼, 상품 정보</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>장바구니</td>
+    <td>선택 상품, 수량, 쿠폰, 결제 예정 금액</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>주문서 작성</td>
+    <td>배송지, 요청사항, 결제 수단, 주문 요약</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>로그인</td>
+    <td>이메일 로그인, 소셜 로그인, 회원가입 이동</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>마이페이지</td>
+    <td>주문 상태, 쿠폰, 포인트, 최근 주문</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>찜한 상품</td>
+    <td>관심 상품 목록, 카테고리 필터, 장바구니 담기</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>이벤트</td>
+    <td>쿠폰팩, 할인 이벤트, 리뷰 적립 이벤트</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>고객센터</td>
+    <td>FAQ 검색, 문의 카테고리, 자주 묻는 질문</td>
+  </tr>
+</tbody>
+
+</table>
+
 
 ## 1. 프롬프트 최적화 로그 – 고객센터
 
