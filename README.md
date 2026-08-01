@@ -13,9 +13,10 @@
 <th width="50%">수정전</th>
 <th width="50%">수정후</th>
 </tr>
+
 <tr>
-<td align="center"><img src="./assets/customer-center-before.png" alt="고객센터 수정전"></td>
-<td align="center"><img src="./assets/customer-center-after.png" alt="고객센터 수정후"></td>
+<td align="center"><img src="./src/assets/customer-center-before.png" alt="고객센터 수정전"></td>
+<td align="center"><img src="./src/assets/customer-center-after.png" alt="고객센터 수정후"></td>
 </tr>
 </table>
 
@@ -81,8 +82,8 @@
 <th width="50%">수정후</th>
 </tr>
 <tr>
-<td align="center"><img src="./assets/coupon-before.png" alt="쿠폰팩 수정전"></td>
-<td align="center"><img src="./assets/coupon-after.png" alt="쿠폰팩 수정후"></td>
+<td align="center"><img src="./src/assets/coupon-before.png" alt="쿠폰팩 수정전"></td>
+<td align="center"><img src="./src/assets/coupon-after.png" alt="쿠폰팩 수정후"></td>
 </tr>
 </table>
 
@@ -150,8 +151,8 @@ FREE: 스카이블루<br>
 <th width="50%">수정후</th>
 </tr>
 <tr>
-<td align="center"><img src="./assets/product-detail-before.png" alt="상품 상세 수정전"></td>
-<td align="center"><img src="./assets/product-detail-main-after.png" alt="상품 상세 수정후"></td>
+<td align="center"><img src="./src/assets/product-detail-before.png" alt="상품 상세 수정전"></td>
+<td align="center"><img src="./src/assets/product-detail-main-after.png" alt="상품 상세 수정후"></td>
 </tr>
 </table>
 
@@ -163,15 +164,15 @@ FREE: 스카이블루<br>
 <th width="50%">수정후 화면 3</th>
 </tr>
 <tr>
-<td align="center"><img src="./assets/product-detail-info.png" alt="수정후 화면 2"></td>
-<td align="center"><img src="./assets/product-detail-review.png" alt="수정후 화면 3"></td>
+<td align="center"><img src="./src/assets/product-detail-info.png" alt="수정후 화면 2"></td>
+<td align="center"><img src="./src/assets/product-detail-review.png" alt="수정후 화면 3"></td>
 </tr>
 <tr>
 <th>수정후 화면 4</th>
 <th></th>
 </tr>
 <tr>
-<td align="center"><img src="./assets/product-detail-recommend.png" alt="수정후 화면 4"></td>
+<td align="center"><img src="./src/assets/product-detail-recommend.png" alt="수정후 화면 4"></td>
 <td></td>
 </tr>
 </table>
@@ -253,8 +254,8 @@ FREE: 스카이블루<br>
 <th width="50%">수정후</th>
 </tr>
 <tr>
-<td align="center"><img src="./assets/cart-before.png" alt="장바구니 수정전"></td>
-<td align="center"><img src="./assets/cart-after.png" alt="장바구니 수정후"></td>
+<td align="center"><img src="./src/assets/cart-before.png" alt="장바구니 수정전"></td>
+<td align="center"><img src="./src/assets/cart-after.png" alt="장바구니 수정후"></td>
 </tr>
 </table>
 
